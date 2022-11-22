@@ -6,8 +6,7 @@ class HomePage extends StatefulWidget {
 }
 class _HomePageState extends State<HomePage> {
   List<String> listImg =[
-    "assets/images/apple"
-        ".webp",
+    "assets/images/apple2.webp",
     "assets/images/apple3.jpg",
     "assets/images/apple1.jpg",
     "assets/images/apple4.jpg",
